@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV LOKAL2", GTV
+https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
+
+#EXTINF:-1 group-title="TV LOKAL2", RCTI
+https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+
+#EXTINF:-1 group-title="TV LOKAL2", MNC
+https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
+
+#EXTINF:-1 group-title="TV LOKAL2", SCTV
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+
+#EXTINF:-1 group-title="TV LOKAL2", ANTV
+https://iptv.mwafa.net/vidio/782/index.m3u8?token=1999
+
+#EXTINF:-1 group-title="TV LOKAL2", TRANSTV
+https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
+
+#EXTINF:-1 group-title="TV LOKAL2", TRANS7
+https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
+
+#EXTINF:-1 group-title="TV LOKAL2", RTV
+https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
+
+#EXTINF:-1 group-title="TV LOKAL2", NET-TV
+https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
